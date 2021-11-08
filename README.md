@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mhassan19
-- 👀 I’m interested in Web developing 
+- 👋 Hi, I’m @mhassan
 - 🌱 I’m currently learning 
 - 📫 Contact Email :tanverrehana1@gmail.com
 
